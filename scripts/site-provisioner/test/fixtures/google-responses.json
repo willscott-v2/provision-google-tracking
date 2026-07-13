@@ -1,0 +1,25 @@
+{
+  "property": {
+    "name": "properties/100",
+    "parent": "accounts/123456789",
+    "displayName": "Example Site"
+  },
+  "stream": {
+    "name": "properties/100/dataStreams/200",
+    "displayName": "Example Site Web",
+    "webStreamData": {
+      "defaultUri": "https://example.com/",
+      "measurementId": "G-ABCDE12345"
+    }
+  },
+  "verifiedResource": {
+    "id": "dns://example.com",
+    "site": {
+      "type": "INET_DOMAIN",
+      "identifier": "example.com"
+    },
+    "owners": [
+      "owner@example.com"
+    ]
+  }
+}

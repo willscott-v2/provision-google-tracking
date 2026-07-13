@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "domain": "example.com",
+  "googleEmail": "owner@example.com",
+  "gaAccountId": "123456789",
+  "gaPropertyName": "properties/100",
+  "gaDataStreamName": "properties/100/dataStreams/200",
+  "measurementId": "G-ABCDE12345",
+  "verificationResourceId": "dns://example.com",
+  "searchConsoleProperty": "sc-domain:example.com",
+  "sitemapSubmitted": true,
+  "completed": true,
+  "accessGrants": {}
+}

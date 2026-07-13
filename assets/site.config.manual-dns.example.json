@@ -1,0 +1,16 @@
+{
+  "displayName": "Example Site",
+  "domain": "example.com",
+  "canonicalUrl": "https://example.com/",
+  "sitemapUrl": "https://example.com/sitemap.xml",
+  "timeZone": "America/Chicago",
+  "currencyCode": "USD",
+  "expectedGoogleEmail": "owner@example.com",
+  "expectedGoogleCloudProjectId": "example-google-cloud-project",
+  "gaAccountId": "123456789",
+  "verification": {
+    "provider": "manual"
+  },
+  "staticSiteDirectory": "./public",
+  "stateFile": ".state/example.com.json"
+}

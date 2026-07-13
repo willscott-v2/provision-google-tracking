@@ -1,0 +1,13 @@
+{
+  "zone": {
+    "id": "zone-example",
+    "name": "example.com",
+    "status": "active"
+  },
+  "dnsRecord": {
+    "id": "record-example",
+    "type": "TXT",
+    "name": "example.com",
+    "content": "google-site-verification=TEST_ONLY_PUBLIC_VERIFICATION_VALUE"
+  }
+}

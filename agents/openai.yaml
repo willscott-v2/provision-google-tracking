@@ -1,0 +1,4 @@
+interface:
+  display_name: "Provision Google Tracking"
+  short_description: "Set up GA4, Search Console, DNS, and access"
+  default_prompt: "Use $provision-google-tracking to prepare and provision GA4 and Google Search Console for a website."

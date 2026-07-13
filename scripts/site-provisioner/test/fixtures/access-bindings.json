@@ -1,0 +1,15 @@
+{
+  "accessBindings": [
+    {
+      "name": "properties/100/accessBindings/1",
+      "user": "teammate@example.com",
+      "roles": [
+        "predefinedRoles/admin"
+      ]
+    }
+  ],
+  "delegatedOwners": [
+    "owner@example.com",
+    "teammate@example.com"
+  ]
+}
